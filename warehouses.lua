@@ -13,7 +13,7 @@ CreateThread(function()
             if IsControlPressed(0, 51) then
                 DoScreenFadeOut(1000)
                 Wait(1500)
-                SetEntityCoords(PlayerPedId(), 1022.123108, -2398.377930, 30.122314) 
+                SetEntityCoords(PlayerPedId(), 1022.123108, -2398.377930, 30.122314)
                 Wait(1000)
                 DoScreenFadeIn(1000)
             end
@@ -25,7 +25,7 @@ CreateThread(function()
             if IsControlPressed(0, 51) then
                 DoScreenFadeOut(1000)
                 Wait(1500)
-                SetEntityCoords(PlayerPedId(), 1025.459351, -2398.865967, 29.903320, 239.736) 
+                SetEntityCoords(PlayerPedId(), 1025.459351, -2398.865967, 29.903320, 239.736)
                 Wait(1000)
                 DoScreenFadeIn(1000)
             end
@@ -43,7 +43,7 @@ CreateThread(function()
             if IsControlPressed(0, 51) then
                 DoScreenFadeOut(1000)
                 Wait(1500)
-                SetEntityCoords(PlayerPedId(), 126.742, -1278.386, 28.569) 
+                SetEntityCoords(PlayerPedId(), 126.742, -1278.386, 28.569)
                 Wait(1000)
                 DoScreenFadeIn(1000)
             end
@@ -54,7 +54,7 @@ CreateThread(function()
             if IsControlPressed(0, 51) then
                 DoScreenFadeOut(1000)
                 Wait(1500)
-                SetEntityCoords(PlayerPedId(), 132.527481, -1294.153809, 29.263062) 
+                SetEntityCoords(PlayerPedId(), 132.527481, -1294.153809, 29.263062)
                 Wait(1000)
                 DoScreenFadeIn(1000)
             end
