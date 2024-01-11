@@ -1,12 +1,10 @@
 fx_version 'cerulean'
-
 game 'gta5'
-
 author 'bitpredator'
-
 description 'bpt_teleport'
+version '1.0.0'
 
-version '0.0.4'
+shared_script '@es_extended/imports.lua'
 
 client_scripts {
     '@es_extended/locale.lua',
